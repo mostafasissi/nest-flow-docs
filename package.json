@@ -1,0 +1,17 @@
+{
+  "name": "nest-flow-doc",
+  "version": "1.0.0",
+  "description": "a nest flow documentation using vitepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev" : "vitepress dev docs",
+    "docs:build" : "vitepress build docs",
+    "docs:serve" : "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.10"
+  }
+}
