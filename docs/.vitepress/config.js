@@ -1,6 +1,7 @@
 // .vitepress/config.js
 export default {
     // site-level options
+    base : 'nest-flow-docs' , 
     title: 'Nest flow',
 
     description: 'A nest js code generator using Yeoman',
