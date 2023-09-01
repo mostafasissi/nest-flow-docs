@@ -2,7 +2,7 @@
 export default {
     // site-level options
     title: 'Nest flow',
-
+    base : '/nest-flow-doc/',
     description: 'A nest js code generator using Yeoman',
   
     themeConfig: {
